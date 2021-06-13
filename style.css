@@ -70,12 +70,14 @@ body {
 .form-controle.error input {
     border-color: #e74c3c;;
 }
+
 .form-controle i {
     visibility: hidden;
     position: absolute;
     top: 40px;
     right: 10px;
 }
+
 .form-controle.success i.check_circle {
     color: #2ecc71;
 	visibility: visible;
@@ -85,6 +87,7 @@ body {
     color: #e74c3c;
     visibility: visible;
 }
+
 .form-controle small {
     color: #e74c3c;
     position: absolute;
